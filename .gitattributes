@@ -1,0 +1,7 @@
+# Shell-Skript und Makefile brauchen LF, auch bei einem Checkout unter Windows (core.autocrlf)
+*.sh     text eol=lf
+Makefile text eol=lf
+
+# Generierter Modellcode: in Diffs einklappen und nicht in die Sprachstatistik von GitHub zählen
+c/lgn_model.c linguist-generated
+c/lgn_model.h linguist-generated
