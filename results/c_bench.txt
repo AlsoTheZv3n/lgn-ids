@@ -1,0 +1,2 @@
+82332 Flows, 48240 als Angriff erkannt | 255.9 ns/Flow | 3.91 Mio. Flows/s (1 Thread, inkl. Kodierung)
+Accuracy 0.8997 | Precision 0.8843 | Recall 0.9410 | F1 0.9117 | False-Positive-Rate 0.1509

@@ -1,0 +1,28 @@
+{
+  "gradient_boosting": {
+    "test": {
+      "accuracy": 0.9081766506340183,
+      "precision": 0.8756763208147677,
+      "recall": 0.9711020912379776,
+      "f1": 0.9209238107192168,
+      "false_positive_rate": 0.16891891891891891,
+      "balanced_accuracy": 0.9010915861595293
+    },
+    "speed_1thread": {
+      "ns_per_flow_batch": 15263.604576586846,
+      "flows_per_s_batch": 65515.32404959707,
+      "latency_single_flow_us": 3675.9005001840706
+    }
+  },
+  "ft_transformer": {
+    "params": 114242,
+    "test": {
+      "accuracy": 0.9141160180731672,
+      "precision": 0.9007142707526026,
+      "recall": 0.9485793699814701,
+      "f1": 0.9240273763604913,
+      "false_positive_rate": 0.1281081081081081,
+      "balanced_accuracy": 0.910235630936681
+    }
+  }
+}

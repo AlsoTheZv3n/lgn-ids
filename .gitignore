@@ -1,0 +1,7 @@
+data/
+raw/
+__pycache__/
+c/lgn_ids
+results/c_predictions.csv
+results/ft_transformer.pkl
+results/gradient_boosting.pkl

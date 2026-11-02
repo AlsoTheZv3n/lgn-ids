@@ -1,0 +1,7 @@
+{
+  "gates_trained": 8000,
+  "gates_after_optimization": 5337,
+  "output_terms": 1791,
+  "adder_cells": 1787,
+  "input_bits": 409
+}

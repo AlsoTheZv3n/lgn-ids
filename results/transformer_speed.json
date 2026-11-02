@@ -1,0 +1,38 @@
+[
+  {
+    "batch": 1,
+    "threads": "1",
+    "ns_per_flow": 839418.3129998965,
+    "flows_per_s": 1191.3011480845823
+  },
+  {
+    "batch": 64,
+    "threads": "1",
+    "ns_per_flow": 357250.9383012983,
+    "flows_per_s": 2799.152900073337
+  },
+  {
+    "batch": 1024,
+    "threads": "1",
+    "ns_per_flow": 446722.5321013721,
+    "flows_per_s": 2238.5259935200133
+  },
+  {
+    "batch": 1,
+    "threads": "alle",
+    "ns_per_flow": 1370414.9674999826,
+    "flows_per_s": 729.7059822867212
+  },
+  {
+    "batch": 64,
+    "threads": "alle",
+    "ns_per_flow": 239928.24268831854,
+    "flows_per_s": 4167.91282591546
+  },
+  {
+    "batch": 1024,
+    "threads": "alle",
+    "ns_per_flow": 225628.32056289443,
+    "flows_per_s": 4432.067736466831
+  }
+]
